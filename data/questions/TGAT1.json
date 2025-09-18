@@ -1,0 +1,122 @@
+[
+  {
+    "stem": "Choose the correct word: She ___ to school every day.",
+    "choices": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "answer": 1,
+    "explain": "Third person singular needs 'goes'.",
+    "topic": "Grammar"
+  },
+  {
+    "stem": "Which sentence is correct?",
+    "choices": [
+      "He don't like tea.",
+      "He doesn't like tea.",
+      "He not like tea.",
+      "He isn't like tea."
+    ],
+    "answer": 1,
+    "explain": "Use 'doesn't' with he/she/it.",
+    "topic": "Grammar"
+  },
+  {
+    "stem": "Find the synonym of 'rapid'.",
+    "choices": [
+      "slow",
+      "quick",
+      "late",
+      "lazy"
+    ],
+    "answer": 1,
+    "explain": "'Rapid' ≈ 'quick'.",
+    "topic": "Vocabulary"
+  },
+  {
+    "stem": "Fill in: I'll call you ___ I arrive.",
+    "choices": [
+      "until",
+      "as soon as",
+      "unless",
+      "because"
+    ],
+    "answer": 1,
+    "explain": "'as soon as' fits immediate action.",
+    "topic": "Connectors"
+  },
+  {
+    "stem": "What is the main idea? 'Regular exercise improves health.'",
+    "choices": [
+      "Exercise is boring.",
+      "Exercise is harmful.",
+      "Exercise benefits health.",
+      "Avoid exercise."
+    ],
+    "answer": 2,
+    "explain": "Main idea is the benefit.",
+    "topic": "Reading"
+  },
+  {
+    "stem": "Choose the best response: 'Could you help me?'",
+    "choices": [
+      "Sure, no problem.",
+      "No I can't help ever.",
+      "I won't.",
+      "Help yourself."
+    ],
+    "answer": 0,
+    "explain": "Polite affirmative response.",
+    "topic": "Pragmatics"
+  },
+  {
+    "stem": "Choose the correct preposition: 'interested ___ science'",
+    "choices": [
+      "on",
+      "in",
+      "at",
+      "for"
+    ],
+    "answer": 1,
+    "explain": "Fixed phrase: interested in.",
+    "topic": "Preposition"
+  },
+  {
+    "stem": "Choose the correct form: 'If I ___ time, I will join.'",
+    "choices": [
+      "have",
+      "had",
+      "having",
+      "has"
+    ],
+    "answer": 0,
+    "explain": "First conditional uses present simple.",
+    "topic": "Conditionals"
+  },
+  {
+    "stem": "Reading: 'The museum opens at 9 am on weekdays.' When does it open?",
+    "choices": [
+      "9 am",
+      "10 am",
+      "weekends",
+      "never"
+    ],
+    "answer": 0,
+    "explain": "Stated explicitly.",
+    "topic": "Reading"
+  },
+  {
+    "stem": "Polite request: '___ you please open the window?'",
+    "choices": [
+      "Do",
+      "Shall",
+      "Would",
+      "May"
+    ],
+    "answer": 2,
+    "explain": "'Would you please...' is most polite.",
+    "topic": "Politeness"
+  }
+]
